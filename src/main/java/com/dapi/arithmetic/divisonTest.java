@@ -1,4 +1,4 @@
-package com.dongpeng.arithmetic;
+package main.java.com.dapi.arithmetic;
 
 /**
  * Java中相除和取余的代码验证

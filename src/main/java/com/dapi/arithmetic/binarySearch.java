@@ -1,4 +1,4 @@
-package com.dongpeng.arithmetic;
+package main.java.com.dapi.arithmetic;
 
 import java.util.Arrays;
 
